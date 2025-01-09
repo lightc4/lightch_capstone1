@@ -1,7 +1,7 @@
 # lightch_capstone1
 
 ## UNITED STATES MILITARY ENLISTED ACCESSIONS
-This project was a graduation requirement for Nashville Software School Data Analyst Bootcamp (DDA-14)
+This project was born out of a deep appreciation for the Enlisted Soliers, Sailors, Airmen, Marines, Coast Guardsmen, and most recently added Guardians, who selflessly volunteer to serve in the US Armed Forces.
 
 ### Executive Summary
 Military enlistment has declined in the Department of Defense (DoD) in recent decades. Enlistment in the US Armed Forces in 2020 decreased by approximately 58% since 1980 (https://usafacts.org/articles/is-military-enlistment-down/).  The decrease in enlistment from 2010 to 2020 was approximately 6%. Not all areas in the US have declining enlistment.  The SOUTH consistently exceeds recruitment compared to its target population.  This project examined one factor, Gross Domestic Product Per Capita (GDPPC), against Percent Enlisted Accessions from FY2010-2020, finding interesting results.  
